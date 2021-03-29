@@ -1,0 +1,6 @@
+name: ${project.build.finalName}
+version: ${project.version}
+author: deathibring
+main: me.deathibring.com.Main
+api-version: 1.16
+description: A commission plugin to give useful tips to newly joined players.
